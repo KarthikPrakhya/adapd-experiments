@@ -1,0 +1,6 @@
+# Additional packages needed only to regenerate the OT cost matrix.
+# OTDD imports torchtext, whose final release is compatible with PyTorch 2.3.
+torch==2.3.0
+torchvision==0.18.0
+torchtext==0.18.0
+git+https://github.com/microsoft/otdd.git@72f1b22d6c688e15db416194c9fe42262d927303

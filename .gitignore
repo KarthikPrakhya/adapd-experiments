@@ -1,0 +1,7 @@
+.DS_Store
+.ipynb_checkpoints/
+.venv/
+__pycache__/
+results/
+datasets/GSet/G1
+datasets/OTDD/cifar10_mnist_2000x2000_resnet18.npy
